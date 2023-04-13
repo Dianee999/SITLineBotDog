@@ -1,0 +1,8 @@
+Channel Access Token
+
+	NgHLeFr8eHK4ZjL70FViNLFoStCdH8wdT6C4p8LoAOZ0oRSST7FYts/9qvJs6Vla8RMXzw53IAmJuFJA6r0/kCMttqbMnM/rEdx8omkMEJOWJ0JiznPXs9z8tBtCk71sqvVNqBIusZZvBo3IZixa7gdB04t89/1O/w1cDnyilFU=
+
+
+Channel Secret:
+
+	0a91ccd09aba9e6831ada1781aa2868f
